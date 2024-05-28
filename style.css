@@ -140,7 +140,7 @@ a {
 
 #pixel-art-container .cell:nth-child(9) {
   background-color: rgb(17, 255, 0);
-
+}
 #pixel-art-container .cell:nth-child(91) {
     background-color: burlywood;
 }
